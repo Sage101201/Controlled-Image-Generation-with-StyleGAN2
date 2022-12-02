@@ -1,0 +1,1 @@
+This folder contains all files used and generated during the training of StyleGAN2 with various curated nad non-curated datasets.
