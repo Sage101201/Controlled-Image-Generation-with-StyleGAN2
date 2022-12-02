@@ -1,0 +1,2 @@
+This folder consists of our querying technique used to curate images from the original FFHQ dataset into smaller subsets.
+It also contains files regarding our appraoch of sub-querying process implemented
