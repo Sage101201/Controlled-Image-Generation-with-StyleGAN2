@@ -1,0 +1,2 @@
+This process uses 81-point facial landmarking technique to identify and label 81 points on the human face. 
+These points can be used to demarkate the various aspects of facial features later.
