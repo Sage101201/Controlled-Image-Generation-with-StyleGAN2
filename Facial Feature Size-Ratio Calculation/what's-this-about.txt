@@ -1,0 +1,2 @@
+Here, the variuos aspects of the 4 features -forehead, eyes, lips and nose are compared to other facial aspects to obtain size-ratios for each of them.
+This is uniformly applied to all images in a manner that szie-ratio values for same feature among various images can be compared.
