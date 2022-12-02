@@ -1,0 +1,1 @@
+This folder consists of the data binning process where the numerical size-ratios of the features are categorised into 3 categories - Small (S), Medium (M) and Large (L). 
