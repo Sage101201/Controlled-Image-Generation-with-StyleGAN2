@@ -1,0 +1,1 @@
+This folder conatins the FFHQ dataset and smaller subsets for curated training.
